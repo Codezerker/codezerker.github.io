@@ -8,6 +8,12 @@ footer {
     text-transform: none;
     @include heading-font;
   }
+  a.footer-link {
+    font-size: 90%;
+    line-height: 40px;
+    text-transform: none;
+    @include heading-font;
+  }
   ul.quicklinks {
     font-size: 90%;
     line-height: 40px;
